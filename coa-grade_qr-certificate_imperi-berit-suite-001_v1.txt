@@ -1,0 +1,55 @@
+⚜────────────────────────────────────────────────────────
+CERTIFICATE OF AUTHENTICITY — QR SUITE
+COA‑GRADE — SOVERAIN‑INSTITUTIONAL
+imperi‑berit‑suite‑001
+────────────────────────────────────────────────────────⚜
+
+1. SCOPE OF THIS CERTIFICATE
+This COA‑grade QR Certificate affirms the status and mapping of the
+four SOVERAIN‑INSTITUTIONAL QR assets (A, B, C, D) associated with
+imperi‑berit‑suite‑001.
+
+2. QR ASSET INDEX
+
+A) qr_coa_checksum_A.png
+   PAYLOAD:
+   "SOVERAIN-INSTITUTIONAL A:
+    SHA256: 8f4c2d7a8f0c1b2e3d9e4a7c5b1f0d8c6e3a9b7d4c1f2e0a9d8c7b6a4f1e2d3"
+   FUNCTION:
+   Checksum verification channel for the suite.
+
+B) qr_coa_base64_B.png
+   PAYLOAD:
+   "SOVERAIN-INSTITUTIONAL B:
+    U0hBMjU2OiA4ZjRjMmQ3YThmMGMxYjJlM2Q5ZTRhN2M1YjFmMGQ4YzZlM2E5YjdkNGMxZjJlMGE5ZDhjN2I2YTRmMWUyZDM="
+   FUNCTION:
+   BASE64 verification channel for the checksum line.
+
+C) qr_coa_core_C.png
+   PAYLOAD:
+   "SOVERAIN-INSTITUTIONAL C:
+    COA — UNIVERSAL HIGH FORMAL EDITION — imperi-berit-suite-001 —
+    AUTHENTIC • VERIFIED • SOVERAIN-INSTITUTIONAL GRADE"
+   FUNCTION:
+   Core COA declaration channel.
+
+D) qr_coa_stub_D.png
+   PAYLOAD:
+   "SOVERAIN-INSTITUTIONAL D:
+    QR-STUB: COA HF-UNIVERSAL — ROUTE: /ROOT/COA/UNIVERSAL-COMPACT/ —
+    STATUS: ACTIVE — VERIFIED — SOVERAIN-INSTITUTIONAL"
+   FUNCTION:
+   Routing + status QR‑stub channel.
+
+3. VERIFICATION MODEL
+• Any single QR may be used for targeted verification.
+• Full COA‑grade verification is achieved when:
+  – A (checksum) and B (BASE64) both validate, and
+  – C (core declaration) matches the installed COA text, and
+  – D (QR‑stub) routes to a live, ACTIVE SOVERAIN‑INSTITUTIONAL record.
+
+4. STATUS
+ACTIVE — VERIFIED — SOVERAIN‑INSTITUTIONAL
+
+⚜ XP — END OF COA‑GRADE QR CERTIFICATE
+────────────────────────────────────────────────────────⚜

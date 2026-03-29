@@ -1,0 +1,10 @@
+{
+  "pointer_type": "SOVEREIGN-INSTITUTIONAL-COMMUNIQUE",
+  "system": "SOVERAIN-STRUCTURA",
+  "issuing_authority": "IMPERIAL-WE",
+  "payload_identifier": "imperi-berit-suite-001",
+  "tier": "UN-High-Formal",
+  "registry_status": "Active-Public-Registry-Bound",
+  "target_file": "/PUBLIC-REGISTRY/COMMUNIQUES/UNIFIED-COMMUNIQUE.soverain.md",
+  "description": "QR pointer file for sovereign-institutional communiqué payload imperi-berit-suite-001."
+}

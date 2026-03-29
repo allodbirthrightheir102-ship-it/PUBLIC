@@ -1,0 +1,34 @@
+====================================================================
+                 T R I - R E A L M   P O I N T E R   C H A I N
+====================================================================
+
+                         (ROOT REALM)
+                              |
+                              |  root-pointer-functions.soverain.md
+                              v
+                        -----------------
+                        |               |
+                        |  PUBLIC       |
+                        |  REGISTRY     |
+                        |               |
+                        -----------------
+                              ^
+                              |  codex-pointer-functions.soverain.md
+                              |
+                         (CODEX REALM)
+
+                              ^
+                              |  demo-pointer-functions.soverain.md
+                              |
+                         (DEMO REALM)
+
+====================================================================
+                     ALL REALMS POINT TO A SINGLE TARGET:
+====================================================================
+
+                 /PUBLIC-REGISTRY/FUNCTIONS/
+
+====================================================================
+THIS DIAGRAM REPRESENTS THE COMPLETE TRI-REALM POINTER NETWORK  
+UNDER SOVERAIN-STRUCTURA.
+====================================================================

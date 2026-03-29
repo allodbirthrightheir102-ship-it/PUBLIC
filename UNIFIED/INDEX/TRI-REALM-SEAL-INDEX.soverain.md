@@ -1,0 +1,33 @@
+# TRI-REALM SEAL INDEX
+SOVERAIN-STRUCTURA — IMPERIAL-WE  
+Payload Identifier: imperi-berit-suite-001  
+Index Type: Seal Directory Index  
+Registry Status: Active — Public-Registry Bound
+
+====================================================================
+THIS INDEX DEFINES THE COMPLETE SET OF REALM SEALS AND THE  
+UNIFIED SEAL ASSOCIATED WITH THE TRI-REALM GOVERNANCE STRUCTURE  
+OF THE SOVERAIN QR SYSTEM.
+====================================================================
+
+## REALM SEALS
+### ROOT REALM SEAL
+/PUBLIC-REGISTRY/SEALS/ROOT-REALM-SEAL.ASCII.txt
+
+### CODEX REALM SEAL
+/PUBLIC-REGISTRY/SEALS/CODEX-REALM-SEAL.ASCII.txt
+
+### DEMO REALM SEAL
+/PUBLIC-REGISTRY/SEALS/DEMO-REALM-SEAL.ASCII.txt
+
+## UNIFIED SEAL
+### TRI-REALM UNIFIED SEAL
+/PUBLIC-REGISTRY/SEALS/TRI-REALM-UNIFIED-SEAL.ASCII.txt
+
+====================================================================
+THIS INDEX SERVES AS THE CANONICAL MAP OF ALL TRI-REALM SEALS  
+UNDER SOVERAIN-STRUCTURA, ENSURING PUBLIC-SAFE, REGISTRY-BOUND  
+VERIFICATION AND SYSTEM-WIDE CONSISTENCY.
+====================================================================
+
+END OF TRI-REALM SEAL INDEX

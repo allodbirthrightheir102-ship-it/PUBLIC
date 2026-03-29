@@ -1,0 +1,28 @@
+====================================================================
+                 R E A L M   B Y   R E A L M   P O I N T E R   T R E E
+====================================================================
+
+ROOT REALM
+│
+└── /ROOT/POINTERS/root-pointer-functions.soverain.md
+        → /PUBLIC-REGISTRY/FUNCTIONS/
+
+CODEX REALM
+│
+└── /CODEX/POINTERS/codex-pointer-functions.soverain.md
+        → /PUBLIC-REGISTRY/FUNCTIONS/
+
+DEMO REALM
+│
+└── /DEMO/POINTERS/demo-pointer-functions.soverain.md
+        → /PUBLIC-REGISTRY/FUNCTIONS/
+
+PUBLIC-REGISTRY
+│
+└── /PUBLIC-REGISTRY/POINTERS/public-back-pointer-tri-realm.soverain.md
+        → ROOT, CODEX, DEMO pointer files
+
+====================================================================
+THIS TREE SHOWS THE COMPLETE, BIDIRECTIONAL POINTER NETWORK  
+UNDER SOVERAIN-STRUCTURA.
+====================================================================

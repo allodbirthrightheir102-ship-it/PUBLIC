@@ -1,0 +1,34 @@
+====================================================================
+                     T R I - R E A L M   P O I N T E R   C H A I N
+====================================================================
+
+                         (ROOT REALM)
+                              |
+                              |  root-pointer-public-registry-index.soverain.md
+                              v
+                        -----------------
+                        |               |
+                        |  PUBLIC       |
+                        |  REGISTRY     |
+                        |               |
+                        -----------------
+                              ^
+                              |  codex-pointer-public-registry-index.soverain.md
+                              |
+                         (CODEX REALM)
+
+                              ^
+                              |  demo-pointer-public-registry-index.soverain.md
+                              |
+                         (DEMO REALM)
+
+====================================================================
+                     ALL REALMS POINT TO A SINGLE TARGET:
+====================================================================
+
+                 /PUBLIC-REGISTRY/INDEX/REGISTRY-BOUND-INDEX.md
+
+====================================================================
+This is the canonical, immutable, registry-bound index for the
+entire SOVERAIN QR System under SOVERAIN-STRUCTURA.
+====================================================================

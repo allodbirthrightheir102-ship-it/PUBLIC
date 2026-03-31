@@ -1,0 +1,21 @@
+{
+  "manifest_type": "SEAL-SUITE",
+  "system": "SOVERAIN-STRUCTURA",
+  "payload_identifier": "imperi-berit-suite-001",
+  "realm_alignment": "MASTER-TRI-ROOT",
+  "registry_status": "PUBLIC-REGISTRY-BOUND",
+  "included_seals": [
+    "/PUBLIC-REGISTRY/SEALS/MASTER/MASTER-SEAL.ASCII.txt",
+    "/PUBLIC-REGISTRY/SEALS/TRI-REALM/TRI-REALM-SEAL.ASCII.txt",
+    "/PUBLIC-REGISTRY/SEALS/ROOT/ROOT-REALM-SEAL.ASCII.txt",
+    "/PUBLIC-REGISTRY/SEALS/UNIFIED/UNIFIED-SEAL.ASCII.txt",
+    "/PUBLIC-REGISTRY/SEALS/REGISTRY/REGISTRY-LEVEL-SEAL.ASCII.txt"
+  ],
+  "included_sets": [
+    "/PUBLIC-REGISTRY/SEALS/SETS/MASTER-TRI-ROOT-SEAL-SET.soverain.txt"
+  ],
+  "included_qr_sets": [
+    "/PUBLIC-REGISTRY/SEALS/QR/MASTER-TRI-ROOT-QR-BUNDLE.soverain.txt"
+  ],
+  "status": "COMPLETE"
+}

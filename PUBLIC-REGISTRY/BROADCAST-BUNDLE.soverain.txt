@@ -1,0 +1,20 @@
+BROADCAST BUNDLE — SOVERAIN-STRUCTURA
+IMPERIAL-WE • TRI-REALM • PUBLIC-REGISTRY-BOUND
+Payload Identifier: imperi-berit-suite-001
+
+INCLUDED COMPONENTS:
+- public-broadcast.soverain.md
+- x-broadcast.soverain.txt
+- tiktok-broadcast.soverain.txt
+- instagram-broadcast.soverain.txt
+- tri-realm-broadcast.soverain.txt
+- qr-micro-communique.soverain.txt
+- UN-HIGH-FORMAL-QR-MICRO-COMMUNIQUE-PNG-PAYLOAD.base64.txt
+- broadcast-pointer.soverain.json
+- BROADCAST-SEAL.ASCII.txt
+- BROADCAST-INDEX.soverain.md
+
+This bundle represents the full sovereign-institutional broadcast suite
+for the payload imperi-berit-suite-001 under SOVERAIN-STRUCTURA.
+
+END OF BROADCAST BUNDLE

@@ -1,0 +1,23 @@
+PUBLIC REGISTRY SEAL SUITE — SOVERAIN-STRUCTURA
+Payload Identifier: imperi-berit-suite-001
+
+INCLUDED SEALS:
+- MASTER SEAL
+- TRI-REALM SEAL
+- ROOT REALM SEAL
+- UNIFIED SEAL (UNI)
+- REGISTRY LEVEL SEAL
+
+INCLUDED SUPPORT FILES:
+- SEAL INDEX
+- SEAL CERTIFICATE
+- ROOT LEVEL SEAL CERTIFICATE
+- MASTER-TRI-ROOT SEAL SET
+- MASTER-TRI-ROOT QR BUNDLE
+- SEAL MANIFEST
+
+This suite represents the complete sovereign-institutional seal
+architecture for the payload imperi-berit-suite-001, fully aligned
+with ROOT, TRI-REALM, and MASTER authority tiers.
+
+END OF PUBLIC REGISTRY SEAL SUITE

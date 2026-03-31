@@ -1,0 +1,41 @@
+SEAL DIRECTORY MAP — SOVERAIN-STRUCTURA
+Payload Identifier: imperi-berit-suite-001
+
+/PUBLIC-REGISTRY/SEALS
+│
+├── MASTER
+│   └── MASTER-SEAL.ASCII.txt
+│
+├── TRI-REALM
+│   └── TRI-REALM-SEAL.ASCII.txt
+│
+├── ROOT
+│   └── ROOT-REALM-SEAL.ASCII.txt
+│
+├── UNIFIED
+│   └── UNIFIED-SEAL.ASCII.txt
+│
+├── REGISTRY
+│   └── REGISTRY-LEVEL-SEAL.ASCII.txt
+│
+├── GRAND
+│   └── MASTER-TRI-ROOT-GRAND-SEAL.ASCII.txt
+│
+├── SETS
+│   └── MASTER-TRI-ROOT-SEAL-SET.soverain.txt
+│
+├── QR
+│   ├── SEAL-QR-SET.soverain.txt
+│   └── MASTER-TRI-ROOT-QR-BUNDLE.soverain.txt
+│
+├── CERTIFICATES
+│   ├── SEAL-CERTIFICATE.soverain.md
+│   └── ROOT-LEVEL-SEAL-CERTIFICATE.soverain.md
+│
+├── CHARTERS
+│   └── SEAL-SYSTEM-COMPLETION-CHARTER.soverain.md
+│
+└── MANIFESTS
+    └── SEAL-MANIFEST.soverain.json
+
+END OF SEAL DIRECTORY MAP

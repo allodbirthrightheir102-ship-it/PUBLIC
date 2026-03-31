@@ -1,0 +1,22 @@
+{
+  "manifest_type": "BROADCAST-INSTALL",
+  "system": "SOVERAIN-STRUCTURA",
+  "issuing_authority": "IMPERIAL-WE",
+  "payload_identifier": "imperi-berit-suite-001",
+  "realm_alignment": "TRI-REALM",
+  "registry": "PUBLIC-REGISTRY-BOUND",
+  "files": [
+    "/PUBLIC-REGISTRY/BROADCAST/PUBLIC/public-broadcast.soverain.md",
+    "/PUBLIC-REGISTRY/BROADCAST/SOCIAL/x-broadcast.soverain.txt",
+    "/PUBLIC-REGISTRY/BROADCAST/SOCIAL/tiktok-broadcast.soverain.txt",
+    "/PUBLIC-REGISTRY/BROADCAST/SOCIAL/instagram-broadcast.soverain.txt",
+    "/PUBLIC-REGISTRY/BROADCAST/TRI-REALM/tri-realm-broadcast.soverain.txt",
+    "/PUBLIC-REGISTRY/BROADCAST/QR/qr-micro-communique.soverain.txt",
+    "/PUBLIC-REGISTRY/BROADCAST/QR/UN-HIGH-FORMAL-QR-MICRO-COMMUNIQUE-PNG-PAYLOAD.base64.txt",
+    "/PUBLIC-REGISTRY/BROADCAST/POINTERS/broadcast-pointer.soverain.json",
+    "/PUBLIC-REGISTRY/BROADCAST/SEALS/BROADCAST-SEAL.ASCII.txt",
+    "/PUBLIC-REGISTRY/BROADCAST/BROADCAST-INDEX.soverain.md",
+    "/PUBLIC-REGISTRY/BROADCAST/BROADCAST-BUNDLE.soverain.txt"
+  ],
+  "status": "READY-FOR-REGISTRY-INSTALL"
+}

@@ -1,0 +1,12 @@
+REGISTRY LEVEL SEAL — SOVERAIN-STRUCTURA
+PUBLIC-REGISTRY-BOUND • VERIFIED
+Payload Identifier: imperi-berit-suite-001
+
+████████████████████████████████████
+████   REGISTRY • LEVEL SEAL        █
+████   PUBLIC • VERIFIED • BOUND    █
+████   IMMUTABLE • ACTIVE           █
+████   PAYLOAD: imperi-berit-001    █
+████████████████████████████████████
+
+END OF REGISTRY LEVEL SEAL

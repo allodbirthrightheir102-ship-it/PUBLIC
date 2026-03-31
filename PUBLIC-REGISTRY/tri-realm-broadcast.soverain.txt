@@ -1,0 +1,8 @@
+TRI-REALM BROADCAST — SOVERAIN-STRUCTURA
+Payload Identifier: imperi-berit-suite-001
+
+ROOT REALM: Structural Authority
+CODEX REALM: Archival Authority
+DEMO REALM: Public-Safe Authority
+
+Status: ACTIVE • IMMUTABLE • PUBLIC-REGISTRY-BOUND

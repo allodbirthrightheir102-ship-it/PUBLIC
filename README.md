@@ -4,6 +4,7 @@ Public Verification Edition
 
 ![Public Verification Edition](Resized_copilot_image_1774678380711(1).jpeg)
 
+
 ![registry-artifact](registry/artifacts/copilot_image_1775059590874.jpeg)
 
 Mandate
